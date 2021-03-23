@@ -21,32 +21,32 @@ Review”](https://devguide.ropensci.org/).
 **Our [code of conduct](https://ropensci.org/code-of-conduct/) is
 mandatory for everyone involved in our review process.**
 
-  - [Why and how submit your package to rOpenSci?](#why-submit)
-  - [Why and how review for rOpenSci?](#why-review)
-  - [Further resources](#further)
-  - [Editors and reviewers](#editors)
+-   [Why and how submit your package to rOpenSci?](#why-submit)
+-   [Why and how review for rOpenSci?](#why-review)
+-   [Further resources](#further)
+-   [Editors and reviewers](#editors)
 
 # <a href="#why-submit" name="why-submit"></a>Why and how submit your package to rOpenSci?
 
-  - First, and foremost, we hope you submit your package for review
+-   First, and foremost, we hope you submit your package for review
     **because you value the feedback**. We aim to provide useful
     feedback to package authors and for our review process to be open,
     non-adversarial, and focused on improving software quality.
-  - Once aboard, your package will continue to receive **support from
+-   Once aboard, your package will continue to receive **support from
     rOpenSci members**. You’ll retain ownership and control of your
     package, but we can help with ongoing maintenance issues such as
     those associated with updates to R and dependencies and CRAN
     policies.
-  - rOpenSci will **promote your package** through our
+-   rOpenSci will **promote your package** through our
     [webpage](https://ropensci.org/packages/),
     [blog](https://ropensci.org/blog/), and [social
     media](https://twitter.com/ropensci). Packages in our suite also get
     a [documentation website that is automatically built and deployed
     after each
     push](https://devguide.ropensci.org/building.html#docsropensci).
-  - rOpenSci **packages can be cross-listed** with other repositories
+-   rOpenSci **packages can be cross-listed** with other repositories
     such as CRAN and BioConductor.
-  - rOpenSci packages that contain a short accompanying paper can, after
+-   rOpenSci packages that contain a short accompanying paper can, after
     review, be automatically submitted to the [Journal of Open-Source
     Software](http://joss.theoj.org/) for fast-tracked publication.
 
@@ -56,15 +56,15 @@ opening a submission issue in this repository.
 
 ## <a href="#why-review" name="why-review"></a>Why and how to review packages for rOpenSci?
 
-  - As in any peer-review process, we hope you choose to review **to
+-   As in any peer-review process, we hope you choose to review **to
     give back to the rOpenSci and scientific communities.** Our mission
     to expand access to scientific data and promote a culture of
     reproducible research is only possible through the volunteer efforts
     of community members like you.
-  - Review is a two-way conversation. By reviewing packages, you’ll have
+-   Review is a two-way conversation. By reviewing packages, you’ll have
     the chance to **continue to learn development practices from authors
     and other reviewers**.
-  - The open nature of our review process allows you to **network and
+-   The open nature of our review process allows you to **network and
     meet colleagues and collaborators** through the review process. Our
     community is friendly and filled with supportive members expert in R
     development and many other areas of science and scientific
@@ -84,14 +84,14 @@ reviewers](https://devguide.ropensci.org/reviewerguide.html).
 Our [gitbook “rOpenSci Packages: Development, Maintenance, and Peer
 Review”](https://devguide.ropensci.org/) also includes:
 
-  - [a guide for
+-   [a guide for
     editors](https://devguide.ropensci.org/editorguide.html)
 
-  - [our policies](https://devguide.ropensci.org/policies.html)
+-   [our policies](https://devguide.ropensci.org/policies.html)
 
-  - chapters dedicating to good practice for package maintenance
+-   chapters dedicating to good practice for package maintenance
 
-  - different templates: [review
+-   different templates: [review
     template](https://devguide.ropensci.org/reviewtemplate.html),
     [editor’s
     template](https://devguide.ropensci.org/editortemplate.html),
@@ -110,18 +110,18 @@ tracker](https://github.com/ropensci/software-review-meta/issues).
 
 rOpenSci’s Software Peer Review process is run by:
 
-  - [Noam Ross](https://github.com/noamross), EcoHealth Alliance
-  - [Karthik Ram](https://github.com/karthik), rOpenSci
-  - [Maëlle Salmon](https://github.com/maelle), rOpenSci
-  - [Anna Krystalli](https://github.com/annakrystalli), University of
+-   [Noam Ross](https://github.com/noamross), EcoHealth Alliance
+-   [Karthik Ram](https://github.com/karthik), rOpenSci
+-   [Maëlle Salmon](https://github.com/maelle), rOpenSci
+-   [Anna Krystalli](https://github.com/annakrystalli), University of
     Sheffield RSE
-  - [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN
-  - [Brooke Anderson](https://github.com/geanders), Colorado State
+-   [Melina Vidoni](https://github.com/melvidoni), INGAR CONICET-UTN
+-   [Brooke Anderson](https://github.com/geanders), Colorado State
     University
-  - [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
+-   [Mauro Lepore](https://github.com/maurolepore), 2 Degrees Investing
     Initiative
-  - [Laura DeCicco](https://github.com/ldecicco-USGS), USGS
-  - [Julia Gustavsen](https://github.com/jooolia), SOPHiA GENETICS
+-   [Laura DeCicco](https://github.com/ldecicco-USGS), USGS
+-   [Julia Gustavsen](https://github.com/jooolia), SOPHiA GENETICS
 
 ### Reviewers and guest editors
 
@@ -139,7 +139,8 @@ Baert](https://github.com/suzanbaert) · [James
 Balamuta](https://github.com/coatless) · [Vikram
 Baliga](https://github.com/vbaliga) · [David
 Bapst](https://github.com/dwbapst) · [Joëlle
-Barido-Sottani](https://github.com/bjoelle) · [Cale
+Barido-Sottani](https://github.com/bjoelle) · [Allison
+Barner](https://github.com/abarner) · [Cale
 Basaraba](https://github.com/calebasaraba) · [John
 Baumgartner](https://github.com/johnbaums) · [Marcus
 Beck](https://github.com/fawda123) · [Gabe
@@ -152,7 +153,8 @@ Boehm](https://github.com/fboehm) · [Carl
 Boettiger](https://github.com/cboettig) · [Ben
 Bond-Lamberty](https://github.com/bpbond) · [Anne-Sophie
 Bonnet-Lebrun](https://github.com/asbonnetlebrun) · [Alison
-Boyer](https://github.com/alisonboyer) · [François
+Boyer](https://github.com/alisonboyer) · [Abby
+Bratt](https://github.com/aebratt) · [François
 Briatte](https://github.com/briatte) · [Eric
 Brown](https://github.com/eebrown) · [Julien
 Brun](https://github.com/brunj7) · [Jenny
@@ -172,9 +174,9 @@ Dumas](https://github.com/jasdumas) · [Remko
 Duursma](https://github.com/RemkoDuursma) · [Mark
 Edmondson](https://github.com/MarkEdmondson1234) · [Paul
 Egeler](https://github.com/pegeler) · [Evan
-Eskew](https://github.com/eveskew) · [Salvador
-Fernandez](https://github.com/salvafern) · [Manuel
-Fernandez](https://github.com/manuramon) · [Kim
+Eskew](https://github.com/eveskew) · [Manuel
+Fernandez](https://github.com/manuramon) · [Salvador
+Fernandez](https://github.com/salvafern) · [Kim
 Fitter](https://github.com/kimnewzealand) · [Rich
 FitzJohn](https://github.com/richfitz) · [Robert
 Flight](https://github.com/rmflight) · [Sydney
@@ -271,7 +273,8 @@ Read](https://github.com/qdread) · [Neal
 Richardson](https://github.com/nealrichardson) · [Emily
 Riederer](https://github.com/emilyriederer) · [tyler
 rinker](https://github.com/trinker) · [Emily
-Robinson](https://github.com/robinsones) · [Julia
+Robinson](https://github.com/robinsones) · [David
+Robinson](https://github.com/dgrtwo) · [Julia
 Romanowska](https://github.com/jromanowska) · [Xavier
 Rotllan-Puig](https://github.com/xavi-rp) · [Bob
 Rudis](https://github.com/hrbrmstr) · [Edgar
@@ -283,7 +286,6 @@ Schmid](https://github.com/nevrome) · [Marco
 Sciaini](https://github.com/marcosci) · [Heidi
 Seibold](https://github.com/HeidiSeibold) · [Julia
 Silge](https://github.com/juliasilge) · [Margaret
-Siple](https://github.com/mcsiple) · [Margaret
 Siple](https://github.com/mcsiple) · [Peter
 Slaughter](https://github.com/gothub) · [Mike
 Smith](https://github.com/grimbough) · [Frank
@@ -324,16 +326,17 @@ Winslow](https://github.com/lawinslow) · [David
 Winter](https://github.com/dwinter) · [Kara
 Woo](https://github.com/karawoo) · [Bruna
 Wundervald](https://github.com/brunaw) · [Lauren
-Yamane](https://github.com/layamane) · [Taras
+Yamane](https://github.com/layamane) · [Emily C.
+Zabor](https://github.com/zabore) · [Taras
 Zakharko](https://github.com/tzakharko) · [Hao
 Zhu](https://github.com/haozhu233) · [Chava
 Zibman](https://github.com/czibman) · [Naupaka
 Zimmerman](https://github.com/naupaka) · [Jake
-Zwart](https://github.com/jzwart) · [Lluís](https://github.com/llrs) ·
-[NA](https://github.com/dgrtwo) · [NA](https://github.com/abarner) ·
-[NA](https://github.com/zabore)
+Zwart](https://github.com/jzwart) · [Lluís](https://github.com/llrs)
 
 We are also grateful to the following individuals who have served as
 guest editors.
 
-[Ana Laura Diedrichs](https://github.com/anadiedrichs)
+[Ana Laura Diedrichs](https://github.com/anadiedrichs) · [Emily
+Riederer](https://github.com/emilyriederer) · [Adam
+Sparks](https://github.com/adamhsparks)
